@@ -3,8 +3,3 @@ Limpieza y visualización de los datos recogidos en un archivo .csv a partir del
 
 ---
 LinkedIn: [https://www.linkedin.com/in/borja-delgado-gonzalez/](https://www.linkedin.com/in/borja-delgado-gonzalez/)
-
----
-## Disclaimer
-
-<p> En proceso...
